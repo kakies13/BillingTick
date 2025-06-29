@@ -85,6 +85,9 @@ android {
         // ML Kit and Camera configurations
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
+        
+        // React Native 0.74 optimization
+        resConfigs "en", "tr", "de"
     }
     signingConfigs {
         debug {

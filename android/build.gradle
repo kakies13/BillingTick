@@ -6,6 +6,9 @@ buildscript {
         targetSdkVersion = 34
         ndkVersion = "26.1.10909125"
         kotlinVersion = "1.9.22"
+        // React Native 0.74 compatibility settings
+        supportLibVersion = "28.0.0"
+        playServicesVersion = "12.0.1"
     }
     repositories {
         google()
