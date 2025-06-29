@@ -1,4 +1,9 @@
 {
   "name": "BillingTickRN",
-  "displayName": "BillingTickRN"
+  "displayName": "BillingTickRN",
+  "extra": {
+    "eas": {
+      "projectId": "03ea1801-ddca-4356-92b4-34ce4f99cd23"
+    }
+  }
 }
