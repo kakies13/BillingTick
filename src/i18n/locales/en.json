@@ -1,0 +1,64 @@
+{
+  "common": {
+    "scan": "Scan",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "retry": "Retry",
+    "not_found": "Not found"
+  },
+  "camera": {
+    "title": "Scan Bill",
+    "instruction": "Position the bill in the frame and tap to capture",
+    "permission_denied": "Camera permission denied",
+    "permission_request": "We need camera permission to scan bills",
+    "capturing": "Capturing...",
+    "processing": "Processing image..."
+  },
+  "analysis": {
+    "title": "Bill Analysis",
+    "analyzing": "Analyzing bill...",
+    "no_text_found": "No text found in the image",
+    "analysis_failed": "Failed to analyze the bill",
+    "low_confidence": "Low confidence in analysis results"
+  },
+  "results": {
+    "title": "Scan Results",
+    "type": "Bill Type",
+    "amount": "Amount",
+    "due_date": "Due Date",
+    "company": "Company",
+    "confidence": "Confidence",
+    "raw_text": "Raw OCR Text"
+  },
+  "invoice_types": {
+    "electricity": "Electricity",
+    "water": "Water",
+    "gas": "Gas",
+    "internet": "Internet",
+    "phone": "Phone",
+    "cable": "Cable TV",
+    "insurance": "Insurance",
+    "rent": "Rent",
+    "credit_card": "Credit Card",
+    "unknown": "Unknown"
+  },
+  "currencies": {
+    "USD": "US Dollar",
+    "EUR": "Euro",
+    "GBP": "British Pound",
+    "TRY": "Turkish Lira",
+    "CAD": "Canadian Dollar",
+    "AUD": "Australian Dollar",
+    "JPY": "Japanese Yen",
+    "CHF": "Swiss Franc",
+    "SEK": "Swedish Krona",
+    "NOK": "Norwegian Krone"
+  }
+} 

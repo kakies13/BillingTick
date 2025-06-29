@@ -1,0 +1,64 @@
+{
+  "common": {
+    "scan": "Scannen",
+    "camera": "Kamera",
+    "gallery": "Galerie",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolgreich",
+    "retry": "Wiederholen",
+    "not_found": "Nicht gefunden"
+  },
+  "camera": {
+    "title": "Rechnung Scannen",
+    "instruction": "Positionieren Sie die Rechnung im Rahmen und tippen Sie zum Aufnehmen",
+    "permission_denied": "Kamera-Berechtigung verweigert",
+    "permission_request": "Wir benötigen die Kamera-Berechtigung zum Scannen von Rechnungen",
+    "capturing": "Aufnehmen...",
+    "processing": "Bild wird verarbeitet..."
+  },
+  "analysis": {
+    "title": "Rechnungsanalyse",
+    "analyzing": "Rechnung wird analysiert...",
+    "no_text_found": "Kein Text im Bild gefunden",
+    "analysis_failed": "Analyse der Rechnung fehlgeschlagen",
+    "low_confidence": "Niedrige Konfidenz in den Analyseergebnissen"
+  },
+  "results": {
+    "title": "Scan-Ergebnisse",
+    "type": "Rechnungstyp",
+    "amount": "Betrag",
+    "due_date": "Fälligkeitsdatum",
+    "company": "Unternehmen",
+    "confidence": "Konfidenz",
+    "raw_text": "Roher OCR-Text"
+  },
+  "invoice_types": {
+    "electricity": "Strom",
+    "water": "Wasser",
+    "gas": "Gas",
+    "internet": "Internet",
+    "phone": "Telefon",
+    "cable": "Kabel-TV",
+    "insurance": "Versicherung",
+    "rent": "Miete",
+    "credit_card": "Kreditkarte",
+    "unknown": "Unbekannt"
+  },
+  "currencies": {
+    "USD": "US-Dollar",
+    "EUR": "Euro",
+    "GBP": "Britisches Pfund",
+    "TRY": "Türkische Lira",
+    "CAD": "Kanadischer Dollar",
+    "AUD": "Australischer Dollar",
+    "JPY": "Japanischer Yen",
+    "CHF": "Schweizer Franken",
+    "SEK": "Schwedische Krone",
+    "NOK": "Norwegische Krone"
+  }
+} 

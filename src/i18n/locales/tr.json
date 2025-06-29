@@ -1,0 +1,64 @@
+{
+  "common": {
+    "scan": "Tara",
+    "camera": "Kamera",
+    "gallery": "Galeri",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "retry": "Tekrar Dene",
+    "not_found": "Bulunamadı"
+  },
+  "camera": {
+    "title": "Fatura Tara",
+    "instruction": "Faturayı çerçeveye yerleştirin ve çekmek için dokunun",
+    "permission_denied": "Kamera izni reddedildi",
+    "permission_request": "Fatura taramak için kamera iznine ihtiyacımız var",
+    "capturing": "Çekiliyor...",
+    "processing": "Görüntü işleniyor..."
+  },
+  "analysis": {
+    "title": "Fatura Analizi",
+    "analyzing": "Fatura analiz ediliyor...",
+    "no_text_found": "Görüntüde metin bulunamadı",
+    "analysis_failed": "Fatura analiz edilemedi",
+    "low_confidence": "Analiz sonuçlarında düşük güven"
+  },
+  "results": {
+    "title": "Tarama Sonuçları",
+    "type": "Fatura Türü",
+    "amount": "Tutar",
+    "due_date": "Son Ödeme Tarihi",
+    "company": "Şirket",
+    "confidence": "Güven",
+    "raw_text": "Ham OCR Metni"
+  },
+  "invoice_types": {
+    "electricity": "Elektrik",
+    "water": "Su",
+    "gas": "Doğalgaz",
+    "internet": "İnternet",
+    "phone": "Telefon",
+    "cable": "Kablo TV",
+    "insurance": "Sigorta",
+    "rent": "Kira",
+    "credit_card": "Kredi Kartı",
+    "unknown": "Bilinmiyor"
+  },
+  "currencies": {
+    "USD": "ABD Doları",
+    "EUR": "Euro",
+    "GBP": "İngiliz Sterlini",
+    "TRY": "Türk Lirası",
+    "CAD": "Kanada Doları",
+    "AUD": "Avustralya Doları",
+    "JPY": "Japon Yeni",
+    "CHF": "İsviçre Frangı",
+    "SEK": "İsveç Kronu",
+    "NOK": "Norveç Kronu"
+  }
+} 
