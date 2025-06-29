@@ -2,6 +2,18 @@
 
 **Küresel ölçekte çalışan React Native fatura tarama uygulaması**
 
+## 🚀 APK Direkt İndir
+
+### ⬇️ **EN SON SÜRÜM:**
+[![Latest Release](https://img.shields.io/github/v/release/kakies13/BillingTick?style=for-the-badge&logo=android&color=green)](https://github.com/kakies13/BillingTick/releases/latest)
+
+**🔗 TEK TIK İNDİRME:** 
+### [📱 BillingTick APK İndir](https://github.com/kakies13/BillingTick/releases/latest/download/app-debug.apk)
+
+> **💡 İpucu:** Link çalışmıyorsa → [Releases sayfası](https://github.com/kakies13/BillingTick/releases/latest) → "Assets" → APK indir
+
+---
+
 BillingTick, kullanıcıların telefon kamerası ile faturaları tarayarak OCR teknolojisi ile otomatik veri çıkarma işlemi yapabilen modern bir mobil uygulamadır.
 
 ## 🌍 Global Özellikler
